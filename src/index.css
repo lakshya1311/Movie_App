@@ -16,6 +16,7 @@ body {
 }
 .movie-card {
   background: #fff;
+  background: linear-gradient(45deg, white, grey);
   padding: 0;
   border: none;
   border-radius: 10px;
